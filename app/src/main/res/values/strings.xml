@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Contador</string>
+    <string name="app_name">TextMatchApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="tittle2">
+        Compare 2 textos
+    </string>
+    <string name="texto_1">Ingrese el Texto 1</string>
+    <string name="texto_2">Ingrese el Texto 2</string>
+    <string name="comparar">Comparar</string>
 </resources>
